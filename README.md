@@ -1,4 +1,4 @@
-# Digital Sensor Dashboard
+# IoT Sensor Dashboard
 
 A full-stack IoT monitoring application designed to visualize sensor data from ESP8266 devices. This project features a decoupled architecture with a modern Bootstrap 5 front-end (`public/`) and a secure PHP API back-end (`server/`).
 
